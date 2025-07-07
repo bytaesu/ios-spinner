@@ -18,7 +18,8 @@
   ],
   "scripts": {
     "dev": "vite",
-    "build": "tsup"
+    "build:vite": "vite build",
+    "build:pkg": "tsup"
   },
   "peerDependencies": {
     "react": ">=17.0.0",
