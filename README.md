@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/1a8b8c3b-0ece-4533-a029-4604c10d56c6" width="234" />
+
 # `ios-spinner`
 
 An iOS-style spinner for React
